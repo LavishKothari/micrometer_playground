@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7c599226-6fc3-45db-b55f-7d99296ba96d" name="Default Changelist" comment="" />
+    <list default="true" id="7c599226-6fc3-45db-b55f-7d99296ba96d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/OtherMain.java" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,8 +17,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="557">
-              <caret line="72" column="76" selection-start-line="72" selection-start-column="72" selection-end-line="72" selection-end-column="76" />
+            <state relative-caret-position="92">
+              <caret line="41" column="33" lean-forward="true" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -134,6 +136,9 @@
       <find>guage</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -158,6 +163,7 @@
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -265,8 +271,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20820022" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20820022" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -611,8 +618,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="557">
-          <caret line="72" column="76" selection-start-line="72" selection-start-column="72" selection-end-line="72" selection-end-column="76" />
+        <state relative-caret-position="92">
+          <caret line="41" column="33" lean-forward="true" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
